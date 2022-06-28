@@ -1,0 +1,20 @@
+PODS:
+  - Resolver (1.5.0)
+  - swift-user-defaults (0.0.4)
+
+DEPENDENCIES:
+  - Resolver
+  - swift-user-defaults
+
+SPEC REPOS:
+  trunk:
+    - Resolver
+    - swift-user-defaults
+
+SPEC CHECKSUMS:
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+  swift-user-defaults: fcad9119bc941fa8b05367dd30ccceaee99cb48b
+
+PODFILE CHECKSUM: 7db525a9292276e60f7ee6b472a2a339ccb87ef6
+
+COCOAPODS: 1.11.3
